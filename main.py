@@ -1,4 +1,4 @@
-# made by xolo#4942
+# made by xolo#4942 but edited by Zynic
 try:
  try:
   import logging
@@ -688,8 +688,9 @@ try:
 
                 ob['ids'][i]['r'] = requests.get(f'https://discord.com/api/v9/channels/{i}/messages', headers=headers)
                 ob['ids'][i]['jsonn'] = json.loads(ob['ids'][i]['r'].text)
-                if ob['ids'][i]['jsonn'] and ob['ids'][i]['jsonn'][0]['content'] != ob['ids'][i]['checker']:
-                    ob['ids'][i]['checker'] = ob['ids'][i]['jsonn'][0]['content']
+
+                if  ob['ids'][i]['jsonn'][0]['id'] != ob['ids'][i]['checker']:
+                    ob['ids'][i]['checker'] = ob['ids'][i]['jsonn'][0]['id']
                     if self.config['webhook']['enabled']:
                         #print(ob['ids'][i]['jsonn'][0]['embeds']), os.system("pause")
                         a = ob['ids'][i]['jsonn'][0]['embeds'][0]['title']
@@ -708,8 +709,8 @@ try:
             ob['r'] = requests.get(f'https://discord.com/api/v9/channels/{channel_id}/messages', headers=headers)
             ob['jsonn'] = json.loads(ob['r'].text)
 
-            if ob['jsonn'] and ob['jsonn'][0]['content'] != ob['ids'][channel_id]['checker']:
-                ob['ids'][channel_id]['checker'] = ob['jsonn'][0]['content']
+            if  ob['jsonn'][0]['id'] != ob['ids'][channel_id]['checker']:
+                ob['ids'][channel_id]['checker'] = ob['jsonn'][0]['id']
                 if self.config['webhook']['enabled']:
                     a = ob['jsonn'][0]['embeds'][0]['title']
                     b = ob['jsonn'][0]['embeds'][0]['fields'][1]['value']
