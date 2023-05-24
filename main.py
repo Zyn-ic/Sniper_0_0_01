@@ -763,7 +763,7 @@ try:
       """
     # END OF AUTO SEARCH
     ################################################################################################################################
-
+    #Function is not running wll needs new implementation after performance fix
     def auto_id_updated(self):
         while self.config['blankstuff']['real_time_id_update']:
             if (time.time() - self.Time) >= 10:   
