@@ -1,0 +1,397 @@
+2023-05-23 17:18:08,177 - INFO - Started Sniper Class
+2023-05-23 17:18:08,181 - INFO - Setting up accounts
+2023-05-23 17:18:08,182 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:18:08,427 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:18:08,428 - DEBUG - Scraped x_token
+2023-05-23 17:18:08,655 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:18:08,658 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:18:08,661 - INFO - Started sniping
+2023-05-23 17:18:09,570 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:09,575 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:09,911 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:09,919 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:10,293 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:18:10,300 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:10,604 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:10,611 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:10,987 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:18:12,406 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:12,411 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:13,029 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:13,036 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:13,411 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:16,862 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:16,865 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:17,255 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:17,263 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:17,747 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:18,867 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:18,870 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:19,235 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:19,248 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:19,714 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:21,135 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:21,138 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:21,545 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:21,553 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:21,904 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:23,023 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:23,026 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:23,424 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:23,433 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:23,710 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:25,094 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:25,097 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:25,559 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:25,567 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:25,946 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:27,051 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:27,054 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:27,446 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:27,454 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:27,904 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:29,279 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:29,281 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:29,627 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:29,634 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:30,211 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:31,670 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:31,674 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:32,111 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:32,119 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:32,514 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:33,613 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:33,616 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:34,034 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:34,043 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:34,436 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:35,981 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:35,984 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:36,327 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:36,334 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:36,677 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:37,802 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:37,805 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:38,120 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:38,129 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:38,527 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:39,924 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:39,927 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:40,219 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:40,228 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:40,545 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:41,643 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:41,646 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:41,968 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:41,980 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:42,275 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:18:43,684 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:18:43,686 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:44,077 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:18:44,085 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:18:44,708 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:20:55,974 - INFO - Started Sniper Class
+2023-05-23 17:20:55,991 - INFO - Setting up accounts
+2023-05-23 17:20:55,992 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:20:56,193 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:20:56,194 - DEBUG - Scraped x_token
+2023-05-23 17:20:56,419 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:20:56,422 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:20:56,424 - INFO - Started sniping
+2023-05-23 17:20:57,040 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:20:57,045 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:20:57,382 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:20:57,390 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:20:57,703 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:20:57,708 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:20:58,054 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:20:58,061 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:20:58,330 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:20:59,903 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:20:59,906 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:00,275 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:00,284 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:00,652 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:01,820 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:01,823 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:02,177 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:02,186 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:02,553 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:03,962 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:03,965 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:04,303 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:04,314 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:04,686 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:05,808 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:05,810 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:07,095 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:07,103 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:07,423 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:08,821 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:08,824 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:09,144 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:09,154 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:09,468 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:10,585 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:10,588 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:10,863 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:10,871 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:11,239 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:12,623 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:12,626 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:13,013 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:13,022 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:13,305 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:14,439 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:14,442 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:14,849 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:14,858 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:15,242 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:16,635 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:16,638 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:16,973 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:16,983 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:17,373 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:35,510 - INFO - Started Sniper Class
+2023-05-23 17:21:35,515 - INFO - Setting up accounts
+2023-05-23 17:21:35,516 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:21:35,740 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:21:35,741 - DEBUG - Scraped x_token
+2023-05-23 17:21:35,919 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:21:35,922 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:21:35,925 - INFO - Started sniping
+2023-05-23 17:21:36,781 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:36,787 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:37,186 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:37,194 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:37,456 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:21:37,464 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:37,834 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:37,840 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:38,186 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:21:39,788 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:39,791 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:40,164 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:40,177 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:40,697 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:42,305 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:42,308 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:42,994 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:43,009 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:43,342 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:44,760 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:44,763 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:45,145 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:45,175 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:45,499 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:46,640 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:46,642 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:47,062 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:47,070 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:47,469 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:48,960 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:48,964 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:49,295 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:49,305 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:49,646 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:50,779 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:50,783 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:51,155 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:51,166 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:51,938 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:21:53,447 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:21:53,452 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:53,822 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:21:53,833 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:21:54,255 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:33,366 - INFO - Started Sniper Class
+2023-05-23 17:32:33,435 - INFO - Setting up accounts
+2023-05-23 17:32:33,436 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:32:33,687 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:32:33,688 - DEBUG - Scraped x_token
+2023-05-23 17:32:33,871 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:32:33,874 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:32:33,876 - INFO - Started sniping
+2023-05-23 17:32:34,966 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:34,970 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:35,362 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:35,370 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:36,004 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:32:36,010 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:36,495 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:36,503 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:37,254 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:32:38,835 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:38,839 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:39,232 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:39,246 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:39,585 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:40,736 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:40,738 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:41,047 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:41,057 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:41,884 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:43,296 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:43,299 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:43,643 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:43,654 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:44,023 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:45,147 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:45,151 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:45,566 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:45,574 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:45,916 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:32:47,372 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:32:47,375 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:47,771 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:32:47,780 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:32:48,226 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:13,185 - INFO - Started Sniper Class
+2023-05-23 17:35:13,189 - INFO - Setting up accounts
+2023-05-23 17:35:13,190 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:35:13,440 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:35:13,442 - DEBUG - Scraped x_token
+2023-05-23 17:35:13,661 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:35:13,663 - DEBUG - Using selector: SelectSelector
+2023-05-23 17:35:13,665 - INFO - Started sniping
+2023-05-23 17:35:14,473 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:14,478 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:14,788 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:14,796 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:15,080 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:35:15,092 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:15,454 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:15,461 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:15,723 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 17:35:17,256 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:17,259 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:17,545 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:17,555 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:17,891 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:19,039 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:19,043 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:19,435 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:19,446 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:19,818 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:21,187 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:21,190 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:21,550 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:21,559 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:22,010 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:23,215 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:23,219 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:23,697 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:23,705 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:24,099 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:25,485 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:25,488 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:25,843 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:25,852 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:26,196 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:27,324 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:27,327 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:27,682 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:27,690 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:27,991 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:29,380 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:29,382 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:29,750 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:29,759 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:30,080 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:31,269 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:31,271 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:31,638 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:31,649 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:32,010 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:33,400 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:33,403 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:33,793 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:33,801 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:34,216 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:35,370 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:35,372 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:35,727 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:35,735 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:36,135 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:37,528 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:37,531 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:37,904 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:37,913 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:38,209 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:39,344 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:39,346 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:39,717 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:39,725 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:40,118 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:41,549 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:41,552 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:41,891 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:41,900 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:42,353 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:43,472 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:43,475 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:43,862 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:43,870 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:44,212 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:45,680 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:45,683 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:46,951 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:46,959 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:47,300 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:48,696 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:48,699 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:49,067 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:49,076 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:49,430 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 17:35:50,562 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 17:35:50,564 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:50,835 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 17:35:50,843 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 17:35:51,163 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:26,402 - INFO - Started Sniper Class
+2023-05-23 18:18:26,514 - INFO - Setting up accounts
+2023-05-23 18:18:26,514 - DEBUG - Using selector: SelectSelector
+2023-05-23 18:18:26,757 - DEBUG - Using selector: SelectSelector
+2023-05-23 18:18:26,765 - DEBUG - Scraped x_token
+2023-05-23 18:18:26,975 - DEBUG - Using selector: SelectSelector
+2023-05-23 18:18:26,983 - DEBUG - Using selector: SelectSelector
+2023-05-23 18:18:26,983 - INFO - Started sniping
+2023-05-23 18:18:28,191 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:28,191 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:28,575 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:28,575 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:28,967 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 18:18:28,975 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:29,366 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:29,374 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:29,726 - DEBUG - https://discord.com:443 "POST /api/webhooks/912033435638460436/2w0kdGW-esfGAO6X2OpxW6qYKjd5rSPZq86FUq_8aezVsJntzUT9AGcB6Q2i_9u6cj7z HTTP/1.1" 204 0
+2023-05-23 18:18:31,173 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:31,173 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:31,545 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:31,553 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:31,970 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:33,182 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:33,182 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:33,465 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:33,473 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:33,811 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:35,252 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:35,252 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:35,583 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:35,590 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:36,034 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:37,149 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:37,149 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:37,498 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:37,506 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:37,855 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:39,456 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:39,464 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:39,763 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:39,771 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:40,090 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
+2023-05-23 18:18:41,225 - INFO - AUTO SEARCH HAS RUNNING
+2023-05-23 18:18:41,225 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:41,532 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1094291863332192376/messages HTTP/1.1" 200 None
+2023-05-23 18:18:41,540 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-05-23 18:18:41,983 - DEBUG - https://discord.com:443 "GET /api/v9/channels/1093342484358250576/messages HTTP/1.1" 200 None
