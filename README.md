@@ -1,7 +1,7 @@
 # ugc-sniper (with an acutal auto search now)
 the best one out there (yet again)<--- this was a lie
 
-I'll post something soon about how to get in the near future
+I'll post something soon about how to use it the near future
 
 ### important
 - fastes ugc sniper 
